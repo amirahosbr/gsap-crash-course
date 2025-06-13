@@ -1,0 +1,28 @@
+{
+	"menu": {
+		"hello": {
+			"title": "hello",
+			"link": "/hello"
+		},
+		"sapporo": {
+			"title": "sapporo",
+			"link": "/sapporo"
+		},
+		"sides": {
+			"title": "sides",
+			"link": "/sides"
+		},
+		"sticky": {
+			"title": "sticky",
+			"link": "/sticky"
+		},
+        "transition": {
+            "title": "transition",
+            "link": "/transition"
+        },
+		"gsap": {
+            "title": "gsap",
+            "link": "/gsap"
+        }
+	}
+}

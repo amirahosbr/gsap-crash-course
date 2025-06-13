@@ -1,0 +1,39 @@
+{
+	"gsap": {
+        "scrolltrigger": {
+            "title": "GSAP scrolltrigger",
+            "link": "/gsap/scrolltrigger"
+        },
+        "matchmedia": {
+            "title": "GSAP matchmedia",
+            "link": "/gsap/matchmedia"
+        },
+        "timeline": {
+            "title": "GSAP timeline",
+            "link": "/gsap/timeline"
+        }
+    },
+
+    "sticky": {
+        "content": {
+            "title": "Two Content",
+            "link": "/sticky/two-content"
+        },
+        "content-scroll": {
+            "title": "Two Content Scroll",
+            "link": "/sticky/two-content-scroll"
+        }
+    },
+
+    "sides": {
+        "content": {
+            "title": "Sides 1",
+            "link": "/sides/two-content"
+        },
+        "content-scroll": {
+            "title": "Sides 2",
+            "link": "/sides/two-content-scroll"
+        }
+    }
+}
+
